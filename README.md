@@ -7,4 +7,4 @@
 
 『使い方について』
 
-saveAttr.pyをmayaのスクリプトエディタに直接ドロップ＞20行目のpath = " "内にsetting.iniを含めたパスを入力してシェリフに保存
+saveAttr.pyをmayaのスクリプトエディタに直接ドロップ→20行目のpath = " "内にsetting.iniを含めたパスを入力してシェリフに保存
